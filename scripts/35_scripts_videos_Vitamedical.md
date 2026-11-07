@@ -1,13 +1,13 @@
-# 28 scripts vidéo — Vitamedical Academy
+# 35 scripts vidéo — Vitamedical Academy
 
-**Thèmes :** vitaminothérapie · PRP / PRF · skin longevity · médecine de longévité
+**Thèmes :** vitaminothérapie · PRP / PRF · skin longevity · médecine de longévité · hormonologie
 **Méthode :** chaque vidéo a un rôle précis dans le parcours **Attirer → Éduquer → Convertir**.
 
 | Rôle | Objectif | Nb |
 |---|---|---|
-| 🧲 **ATTIRER** | Arrêter le scroll, toucher une large audience, gagner des abonnés | 9 |
-| 📚 **ÉDUQUER** | Créer la confiance et l'autorité, faire comprendre | 13 |
-| 💰 **CONVERTIR** | Faire passer à l'action (formation, masterclass, DM) | 6 |
+| 🧲 **ATTIRER** | Arrêter le scroll, toucher une large audience, gagner des abonnés | 12 |
+| 📚 **ÉDUQUER** | Créer la confiance et l'autorité, faire comprendre | 16 |
+| 💰 **CONVERTIR** | Faire passer à l'action (formation, masterclass, DM) | 7 |
 
 **Structure de chaque script**
 - **Hook (0–3 s)** : la phrase qui arrête le scroll. On la dit *et* on l'écrit à l'écran.
@@ -19,7 +19,7 @@
 
 ---
 
-## Calendrier conseillé (4 semaines, 7 vidéos/semaine)
+## Calendrier conseillé (5 semaines, 7 vidéos/semaine)
 
 | Semaine | Lun | Mar | Mer | Jeu | Ven | Sam | Dim |
 |---|---|---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | 2 | #23 | #3 | #10 | #17 | #24 | #4 | #11 |
 | 3 | #18 | #25 | #5 | #12 | #19 | #26 | #6 |
 | 4 | #13 | #20 | #27 | #7 | #14 | #21 | #28 |
+| 5 | #29 | #31 | #30 | #32 | #34 | #33 | #35 |
 
 Les vidéos « Convertir » arrivent progressivement, une fois la confiance installée par les vidéos « Attirer » et « Éduquer ».
 
@@ -277,10 +278,71 @@ Les vidéos « Convertir » arrivent progressivement, une fois la confiance inst
 
 ---
 
+# ⚖️ BLOC 5 — HORMONOLOGIE
+
+### #29 · 🧲 ATTIRER — « Tu n'es pas folle, c'est peut-être la périménopause »
+**Format :** face caméra, ton complice, 35 s
+**Hook :** « Tu as 42 ans, tu dors mal, tu es irritable et tu as l'impression de perdre la mémoire ? Ce n'est peut-être pas “dans ta tête”. »
+**Corps :**
+« Bien avant les dernières règles, les hormones commencent à fluctuer. C'est la périménopause, et elle peut durer plusieurs années. Troubles du sommeil, sautes d'humeur, brouillard mental, règles irrégulières, bouffées de chaleur… Beaucoup de femmes passent des années sans qu'on fasse le lien. Mettre un mot dessus, c'est déjà la première étape pour être bien accompagnée. »
+**CTA :** « Envoie ça à une amie qui a besoin de l'entendre. »
+**Texte écran :** « Sommeil · Humeur · Mémoire · Cycle → périménopause ? »
+
+### #30 · 🧲 ATTIRER — « Messieurs, vos hormones baissent aussi »
+**Format :** face caméra, ton direct, 30 s
+**Hook :** « La ménopause, tout le monde en parle. Mais les hommes aussi voient leurs hormones baisser. »
+**Corps :**
+« Chez l'homme, la testostérone diminue progressivement avec l'âge, plus ou moins vite selon les personnes. Fatigue, baisse de libido, perte de muscle, prise de ventre, moral en baisse : ces signes sont souvent mis sur le compte de l'âge ou du stress. Le surpoids, le manque de sommeil et la sédentarité peuvent aussi faire chuter la testostérone. La seule façon de savoir : un dosage, le matin, et une interprétation médicale. »
+**CTA :** « Tague un homme qui se reconnaîtra. »
+**Texte écran :** « Fatigue · Libido · Muscle · Ventre »
+
+### #31 · 📚 ÉDUQUER — « La thyroïde, ce chef d'orchestre oublié »
+**Format :** face caméra + schéma simple, 45 s
+**Hook :** « Une petite glande dans ton cou règle la vitesse de tout ton corps. »
+**Corps :**
+« La thyroïde, c'est le thermostat de ton métabolisme. Quand elle tourne au ralenti, on parle d'hypothyroïdie : fatigue, frilosité, prise de poids, peau sèche, chute de cheveux, constipation. Quand elle s'emballe, c'est l'inverse : palpitations, nervosité, perte de poids. Les femmes sont plus souvent touchées. Le premier examen, c'est un dosage de la TSH dans une prise de sang. Simple, et pourtant souvent oublié. »
+**CTA :** « Enregistre pour en parler à ton médecin. »
+**Texte écran :** « Thyroïde = thermostat du corps 🌡️ »
+
+### #32 · 📚 ÉDUQUER — « Traitement hormonal de la ménopause : pourquoi il fait peur »
+**Format :** face caméra, ton posé, 55 s
+**Hook :** « Si le traitement hormonal de la ménopause te fait peur, c'est à cause d'une étude de 2002. »
+**Corps :**
+« Au début des années 2000, une grande étude américaine, la WHI, a fait les gros titres et beaucoup de femmes ont arrêté leur traitement du jour au lendemain. Depuis, les données ont été réanalysées : l'âge des femmes, le moment où on commence le traitement, le type d'hormones et la voie d'administration changent beaucoup le rapport bénéfice-risque. Aujourd'hui, le traitement hormonal peut être une option pour certaines femmes, après une évaluation individuelle. Ce n'est ni un poison, ni un traitement pour tout le monde. C'est une décision à prendre avec un médecin. »
+**CTA :** « Abonne-toi pour une info hormonale nuancée. »
+**Texte écran :** « Ni poison, ni miracle : une décision individuelle »
+
+### #33 · 📚 ÉDUQUER — « Cortisol : quand le stress devient chronique »
+**Format :** face caméra + B-roll écran / téléphone tard le soir, 45 s
+**Hook :** « Le cortisol n'est pas ton ennemi. Le problème, c'est quand il ne redescend jamais. »
+**Corps :**
+« Le cortisol, c'est l'hormone qui te réveille le matin et qui t'aide à faire face à un danger. Normalement, il est haut le matin et bas le soir. Mais avec un stress permanent, des écrans tard et des nuits courtes, ce rythme se dérègle. Résultat possible : sommeil de mauvaise qualité, fringales de sucre, graisse abdominale, fatigue. Les leviers sont simples à dire et difficiles à appliquer : lumière du jour le matin, moins d'écrans le soir, activité physique, vraies pauses. »
+**CTA :** « Commente “STRESS” si tu veux une vidéo sur la routine du soir. »
+**Texte écran :** « Matin ↑ · Soir ↓ = rythme normal »
+
+### #34 · 🧲 ATTIRER — « Ce que la ménopause fait à ta peau »
+**Format :** face caméra, 35 s
+**Hook :** « Ta peau peut changer plus en 5 ans de ménopause qu'en 10 ans avant. »
+**Corps :**
+« Les œstrogènes aident la peau à garder son collagène, son épaisseur et son hydratation. Quand ils chutent à la ménopause, la perte de collagène s'accélère, surtout dans les premières années. La peau devient plus fine, plus sèche, moins ferme. C'est là que la skin longevity et l'hormonologie se rejoignent : prendre soin de sa peau à 50 ans, c'est aussi regarder ce qui se passe à l'intérieur. »
+**CTA :** « Suis-moi pour la suite sur les hormones et la peau. »
+**Texte écran :** « Œstrogènes ↓ → collagène ↓ »
+
+### #35 · 💰 CONVERTIR — « Soignants : l'hormonologie, la demande que vous ne pouvez plus ignorer »
+**Format :** face caméra, 50 s
+**Cible :** médecins et infirmier·e·s
+**Hook :** « Docteur, combien de patientes sont sorties de votre cabinet avec “c'est normal à votre âge” ? »
+**Corps :**
+« Périménopause, ménopause, baisse de testostérone, thyroïde, stress chronique : les patients cherchent des réponses, et beaucoup se sentent peu écoutés. L'hormonologie, c'est savoir relier les symptômes, prescrire les bons dosages, les interpréter et proposer une prise en charge globale, en lien avec la nutrition, le sommeil, la peau et la longévité. C'est exactement l'approche qu'on défend chez Vitamedical Academy. »
+**CTA :** « Vous voulez être formé·e en hormonologie ? Écrivez “HORMONES” en commentaire pour être informé·e en priorité. »
+**Texte écran :** « “C'est normal à votre âge” ≠ une réponse »
+
+---
+
 ## Conseils de tournage
 - **Hook à l'écran dès la 1ʳᵉ image**, en gros, lisible sans le son.
 - **Sous-titres** systématiques (la majorité regarde sans le son).
 - **Une idée par vidéo** : si un script déborde, coupez-le en deux.
 - **Batch-filming** : tournez par bloc thématique (même tenue, même décor) → 7 vidéos par session.
-- **Caption** : reprendre le hook en 1ʳᵉ ligne + 3–5 hashtags ciblés (#prp #skinlongevity #medecinedelongevite #vitaminotherapie #formationmedicale).
+- **Caption** : reprendre le hook en 1ʳᵉ ligne + 3–5 hashtags ciblés (#prp #skinlongevity #medecinedelongevite #vitaminotherapie #formationmedicale #hormonologie #menopause).
 - **Mesurer** : sauvegardes et partages pour les vidéos *Éduquer*, abonnés gagnés pour *Attirer*, DM/clics en bio pour *Convertir*.
