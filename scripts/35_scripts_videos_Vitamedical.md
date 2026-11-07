@@ -1,4 +1,4 @@
-# 35 scripts vidéo — Vitamedical Academy
+# 35 scripts vidéo + 1 vidéo parcours — Vitamedical Academy
 
 **Thèmes :** vitaminothérapie · PRP / PRF · skin longevity · médecine de longévité · hormonologie
 **Méthode :** chaque vidéo a un rôle précis dans le parcours **Attirer → Éduquer → Convertir**.
@@ -336,6 +336,54 @@ Les vidéos « Convertir » arrivent progressivement, une fois la confiance inst
 « Périménopause, ménopause, baisse de testostérone, thyroïde, stress chronique : les patients cherchent des réponses, et beaucoup se sentent peu écoutés. L'hormonologie, c'est savoir relier les symptômes, prescrire les bons dosages, les interpréter et proposer une prise en charge globale, en lien avec la nutrition, le sommeil, la peau et la longévité. C'est exactement l'approche qu'on défend chez Vitamedical Academy. »
 **CTA :** « Vous voulez être formé·e en hormonologie ? Écrivez “HORMONES” en commentaire pour être informé·e en priorité. »
 **Texte écran :** « “C'est normal à votre âge” ≠ une réponse »
+
+---
+
+# 🎬 BONUS — STORYTELLING : MON PARCOURS
+
+> Les passages entre **[crochets]** sont à remplacer par votre histoire vraie. Une vidéo parcours fonctionne grâce aux **détails concrets** : une date, un lieu, une phrase entendue, une émotion. Mieux vaut un souvenir précis qu'un CV.
+
+**Structure (arc narratif) :**
+1. **Hook** : un moment fort, raconté au présent.
+2. **Avant** : qui vous étiez, ce que vous faisiez.
+3. **Le déclic** : le problème, la frustration, la rencontre.
+4. **Le combat** : ce que vous avez dû apprendre ou sacrifier, les doutes.
+5. **La transformation** : ce qui a changé, pour vous et pour vos patients.
+6. **La mission** : pourquoi Vitamedical Academy existe.
+7. **CTA** : rejoindre la communauté.
+
+### #36 · 🧲 ATTIRER + 💰 CONVERTIR — « Pourquoi j'ai créé Vitamedical Academy » (version Reel, 60–75 s)
+**Format :** face caméra, plan serré, lumière douce. Intercaler des photos d'archives (diplôme, premières années, cabinet, formations).
+**Hook :** « [Année]. [Lieu]. Ce jour-là, [un patient / une phrase / un événement] m'a fait comprendre que j'allais devoir changer ma façon d'exercer. »
+
+**Script :**
+« Je m'appelle [Prénom], je suis [médecin / infirmier·e / spécialité] depuis [X] ans.
+
+Pendant longtemps, j'ai exercé comme on me l'avait appris : [soigner la maladie quand elle est là / enchaîner les consultations / prescrire sans avoir le temps d'expliquer].
+
+Et puis il y a eu [le déclic : ex. une patiente épuisée à qui on répétait que tout était normal / ma propre fatigue / la découverte du PRP lors d'un congrès]. Je me suis rendu compte que [ce qui manquait : prévenir plutôt que réparer / regarder le patient dans sa globalité / proposer des solutions issues de son propre corps].
+
+Alors je me suis formé·e. [Formations, pays, années]. Ça n'a pas été simple : [un doute ou un sacrifice : ex. reprendre les études à 35 ans / être regardé·e de travers par des confrères / investir tout ce que j'avais].
+
+Aujourd'hui, la vitaminothérapie, le PRP, la skin longevity, la médecine de longévité et l'hormonologie font partie de ma pratique au quotidien. Et ce que je vois chez mes patients, c'est [changement concret, sans promesse : ex. qu'ils se sentent enfin écoutés / qu'ils deviennent acteurs de leur santé].
+
+Mais j'ai aussi vu l'autre côté : des actes faits sans formation, par des personnes qui n'avaient pas les bases. C'est pour ça que j'ai créé Vitamedical Academy : pour transmettre à d'autres soignants ce que j'aurais aimé qu'on m'apprenne, avec rigueur, de la science et beaucoup de pratique. »
+
+**CTA :** « Si tu es soignant·e et que tu veux exercer autrement, suis-moi. Le lien vers nos formations est en bio. »
+**Texte écran :** Hook en gros dès la 1ʳᵉ seconde, puis des mots-clés au fil du récit : « Avant » → « Le déclic » → « Se former » → « Aujourd'hui » → « La mission ».
+
+### #36-B · Version longue (2–3 min, YouTube / IGTV / épinglée sur le profil)
+Même structure, en développant :
+- **Le déclic** : raconter la scène en entier (où, qui, ce qui a été dit, ce que vous avez ressenti).
+- **Le combat** : 2–3 obstacles concrets et comment vous les avez surmontés.
+- **Un patient-type** (anonymisé, sans résultat chiffré ni avant/après) pour illustrer pourquoi cette médecine compte.
+- **Les valeurs de l'Academy** : science, éthique, savoir dire non, accompagnement après la formation (3 mois de suivi, masterclass).
+- **Fin émotionnelle** : « Ce que je veux, c'est que [vision : chaque patient ait en face de lui un soignant formé et à l'écoute]. »
+
+**Conseils de tournage pour ce script :**
+- Ne pas lire : connaître les 5 étapes par cœur et raconter naturellement. Les petites hésitations rendent la vidéo plus authentique.
+- Changer de plan à chaque étape (face caméra → B-roll → photo d'archive) pour garder le rythme.
+- Épingler cette vidéo en haut du profil : c'est elle que les nouveaux abonnés regardent pour savoir qui vous êtes.
 
 ---
 
